@@ -1,8 +1,7 @@
-// Nama : Faizal Husain Adiasha
-// NIM  : 24060121140115
-// LAB  : B2
-// Tanggal : 1 Maret 2023
-// Deskripsi : Driver Operasi Titik
+// MTitik.java 22/02/23
+// Penulis  : Faizal Husain Adiasha
+// NIM      : 24060121140115
+// Deskripsi: Kelas Main Operasi Titik yang didalamnya memanggil method method kelas Operasititik
 class MOperasiTitik {
     public static void main(String args[]) {
         Titik t1 = new Titik(5.0, 3.0);

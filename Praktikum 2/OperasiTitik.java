@@ -1,8 +1,7 @@
-// Nama : Faizal Husain Adiasha
-// NIM  : 24060121140115
-// LAB  : B2
-// Tanggal : 1 Maret 2023
-// Deskripsi : Class Operasi Titik
+// MTitik.java 22/02/23
+// Penulis  : Faizal Husain Adiasha
+// NIM      : 24060121140115
+// Deskripsi: Kelas Operasi titik yang didalamnya terdapat method untuk refleksi
 class OperasiTitik{
     private void refleksiSumbuX(Titik titik) {
         titik.setOrdinat(-titik.getOrdinat());
