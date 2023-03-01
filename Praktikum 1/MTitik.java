@@ -1,8 +1,7 @@
-// Nama : Faizal Husain Adiasha
-// NIM  : 24060121140115
-// LAB  : B2
-// Tanggal : 22 Februari 2023
-// Deskripsi : Driver Titik
+// MTitik.java 22/02/23
+// Penulis  : Faizal Husain Adiasha
+// NIM      : 24060121140115
+// Deskripsi: Kelas Main Titik yang didalamnya memanggil method method kelas titik
 public class MTitik {
     public static void main(String args[]) {
         Titik t1 = new Titik();

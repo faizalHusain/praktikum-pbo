@@ -1,12 +1,11 @@
-// Nama : Faizal Husain Adiasha
-// NIM  : 24060121140115
-// LAB  : B2
-// Tanggal : 22 Februari 2023
-// Deskripsi : Class Titik
+// Titik.java 22/02/23
+// Penulis  : Faizal Husain Adiasha
+// NIM      : 24060121140115
+// Deskripsi: Kelas Titik yang didalamnya berisi method method setter getter dan counter penghitung objek
 class Titik{
-    double absis;
-    double ordinat;
-    static int counterTitik;
+    public double absis;
+    public double ordinat;
+    public static int counterTitik;
 
     Titik() {
         absis = 0;
