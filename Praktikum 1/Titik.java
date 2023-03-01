@@ -4,9 +4,9 @@
 // Tanggal : 22 Februari 2023
 // Deskripsi : Class Titik
 class Titik{
-    private double absis;
-    private double ordinat;
-    private static int counterTitik;
+    double absis;
+    double ordinat;
+    static int counterTitik;
 
     Titik() {
         absis = 0;
