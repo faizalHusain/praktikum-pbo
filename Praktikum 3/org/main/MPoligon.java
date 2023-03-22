@@ -9,5 +9,6 @@ public class MPoligon {
         Segitiga segitiga = new Segitiga(10, 10, 3);
         segitiga.printInfo();
         System.out.println("Luas Segitiga : " + segitiga.hitungLuas());
+        
     }
 }
