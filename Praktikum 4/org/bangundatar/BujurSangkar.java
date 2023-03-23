@@ -1,4 +1,4 @@
-// BujurSangkar.java 8/03/23
+// BujurSangkar.java 15/03/23
 // Penulis  : Faizal Husain Adiasha
 // NIM      : 24060121140115
 // Deskripsi: Kelas Bujur Sangkar pada Package Bangundatar

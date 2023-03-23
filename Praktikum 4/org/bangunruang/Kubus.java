@@ -1,4 +1,4 @@
-// Kubus.java 8/03/23
+// Kubus.java 15/03/23
 // Penulis  : Faizal Husain Adiasha
 // NIM      : 24060121140115
 // Deskripsi: Kelas Kubus pada Package BangunRuang
