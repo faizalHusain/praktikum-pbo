@@ -1,3 +1,7 @@
+// Segitiga.java 1/03/23
+// Penulis  : Faizal Husain Adiasha
+// NIM      : 24060121140115
+// Deskripsi: Kelas Segitiga pada Package Bangundatar
 package org.bangundatar;
 import org.poligon.Poligon;
 public class Segitiga extends Poligon {
