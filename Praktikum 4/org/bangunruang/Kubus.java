@@ -1,3 +1,7 @@
+// Kubus.java 8/03/23
+// Penulis  : Faizal Husain Adiasha
+// NIM      : 24060121140115
+// Deskripsi: Kelas Kubus pada Package BangunRuang
 package org.bangunruang;
 
 import org.bangundatar.BujurSangkar;
