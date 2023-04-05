@@ -1,3 +1,7 @@
+// Asersi2.java 5/04/23
+// Penulis  : Faizal Husain Adiasha
+// NIM      : 24060121140115
+// Deskripsi: Kelas Asersi 2
 public class Asersi2 {
     public static void main(String[] args) {
         double jariJari = 0;

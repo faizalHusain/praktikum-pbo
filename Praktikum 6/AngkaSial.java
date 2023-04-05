@@ -1,3 +1,7 @@
+// AngkaSial.java 5/04/23
+// Penulis  : Faizal Husain Adiasha
+// NIM      : 24060121140115
+// Deskripsi: Kelas Angka SIal
 public class AngkaSial {
     public void cobaAngka(int angka) throws AngkaSialException {
         if (angka == 13) {
